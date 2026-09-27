@@ -32,12 +32,12 @@ Comprehensive, multi-page executive business intelligence dashboard designed for
 ---
 
 ## 📸 Dashboard Preview
-![Ana Sayfa](screenshots/Ana Sayfa.png)
-![Yönetici Özeti](screenshots/yönetici özeti.png)
-![Hasta & Klinik Analizleri](screenshots/hasta ve klinik analizleri.png)
+![Ana Sayfa](screenshots/AnaSayfa.png)
+![Yönetici Özeti](screenshots/yöneticiözeti.png)
+![Hasta & Klinik Analizleri](screenshots/hastaveklinikanalizleri.png)
 ![Finans ve Sigorta Yönetimi](screenshots/finans.png)
-![Klinik & Personel Performansı](screenshots/klinik personel.png)
-![Ameliyat ve Operasyonel Verimlilik](screenshots/ameliyat operasyonel verimlilik.png)
+![Klinik & Personel Performansı](screenshots/klinikpersonel.png)
+![Ameliyat ve Operasyonel Verimlilik](screenshots/ameliyatoperasyonelverimlilik.png)
 
 
 ---
