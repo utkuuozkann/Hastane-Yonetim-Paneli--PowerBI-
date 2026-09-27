@@ -32,6 +32,8 @@ Comprehensive, multi-page executive business intelligence dashboard designed for
 ---
 
 ## 📸 Dashboard Preview
+![Finans ve Sigorta Yönetimi](screenshots/finans.png)
+
 **
 
 ---
