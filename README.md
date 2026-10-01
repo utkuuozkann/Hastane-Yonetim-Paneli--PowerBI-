@@ -6,7 +6,7 @@ Power BI ile oluşturulmuş, finansal analizler, klinik performans ve operasyone
 [![Power BI](https://img.shields.io/badge/Tool-PowerBI-orange?style=for-the-badge&logo=powerbi)](https://microsoft.com/power-bi)
 [![DAX](https://img.shields.io/badge/Language-DAX-blue?style=for-the-badge)](https://docs.microsoft.com/dax/)
 
-Comprehensive, multi-page executive business intelligence dashboard designed for C-level management of Medical Park Hospitals. Built using Kaggle healthcare datasets to track financial performance, insurance management, clinical workflows, and operational efficiency.
+Comprehensive, multi-page executive business intelligence dashboard designed for C-level management of Hospitals. Built using Kaggle healthcare datasets to track financial performance, insurance management, clinical workflows, and operational efficiency.
 
 ---
 
